@@ -1,16 +1,3 @@
-# sf
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Практическая работа №1<h1>
+<h2>Скрин работы<h2>
+<img width="541" alt="Снимок экрана 2024-02-15 в 16 49 43" src="https://github.com/Nikita2010pro/3isp9-21/assets/160140580/23e5c357-fd06-417d-aa7a-7b07ea3f9699">
